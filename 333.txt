@@ -1,0 +1,9 @@
+Flag Search Results
+===================
+Scan Date: 2025-02-12
+Total flags found: 3
+
+File Path -> Flag
+../Doc/sqlinjection.sql -> CTF
+../Doc/sqlinjection.sql -> CTF
+../Doc/sqlinjection.sql -> CTF
